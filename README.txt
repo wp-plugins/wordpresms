@@ -1,7 +1,7 @@
 === Plugin Name ===
-Contributors: Christoph Burgdorfer, Robert Windisch
+Contributors: Christoph Burgdorfer, coANDcoUK.com / coUNDco.ch
 Donate link: http://www.wordpresms.com
-Tags: sms, mobile, cms, text, text messages, long sms, long messages
+Tags: sms, mobile, cms, text, text messages, long sms, long messages, germany, austria, switzerland, uk
 Requires at least: 2.8
 Tested up to: 2.9
 Stable tag: 0.06
@@ -11,7 +11,7 @@ Use WordPress as a mobile content/SMS CMS with WordpreSMS. People text in and ge
 
 == Description ==
 
-The WordpreSMS plugin allows you to use Wordpress as a mobile SMS content management system. You can set up a Keyword on a given Short Code. If users send that keyword to the short code, the system will reply with an up to 600 characters long SMS to the user. You need an account on [www.wordpresms.com](ttp://www.wordpresms.com "WordpreSMS") to get started.
+The WordpreSMS plugin allows you to use Wordpress as a mobile SMS content management system. You can set up a Keyword on a given Short Code. If users send that keyword to the short code, the system will reply with an up to 600 characters long SMS to the user. You need an account on [www.wordpresms.com](http://www.wordpresms.com "WordpreSMS") to get started.
 
 Due to the nature of SMS services and short codes, the usage is limited to certain countries. At the moment, WordpreSMS is supported by mobile phone operators in:
 
@@ -20,11 +20,16 @@ Due to the nature of SMS services and short codes, the usage is limited to certa
 * Switzerland
 * Austria
 
+Live demo under [demo.wordpresms.com](http://demo.wordpresms.com "WordpreSMS Demo")
+
+This project is still in Beta phase. All feedback, recommendations and ideas should be fed back to [feedback@wordpresms.com](mailto:feedback@wordpresms.com "WordpreSMS Feedback")
+
+
 
 == Installation ==
 
 1. Upload `wordpreSMS.php` to the `/wp-content/plugins/wordpreSMS` directory
-1. Get an account on [www.wordpresms.com](ttp://www.wordpresms.com "WordpreSMS")
+1. Get an account on [www.wordpresms.com](http://www.wordpresms.com "WordpreSMS")
 1. Use the activation token you get on [www.wordpresms.com](ttp://www.wordpresms.com "WordpreSMS") in the plugin settings to activate the plugin.
 
 == Frequently Asked Questions ==
