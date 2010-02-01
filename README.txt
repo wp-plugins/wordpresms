@@ -22,7 +22,7 @@ Due to the nature of SMS services and short codes, the usage is limited to certa
 
 Live demo under [demo.wordpresms.com](http://demo.wordpresms.com "WordpreSMS Demo")
 
-This project is still in Beta phase. All feedback, recommendations and ideas should be fed back to [feedback@wordpresms.com](mailto:feedback@wordpresms.com "WordpreSMS Feedback")
+**Important:** This project is still in Beta phase. All feedback, recommendations and ideas should be fed back to [feedback@wordpresms.com](mailto:feedback@wordpresms.com "WordpreSMS Feedback")
 
 
 
@@ -47,7 +47,7 @@ You can also choose either a dedicated keyword or a dedicated short code at addi
 * UK 83333
 * DE 31000
 * CH 266
-* 0900414141
+* AT 0900414141
 
 = Do pictures or videos work with this? =
 
