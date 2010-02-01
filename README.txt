@@ -11,7 +11,7 @@ Use WordPress as a mobile content/SMS CMS with WordpreSMS. People text in and ge
 
 == Description ==
 
-The WordpreSMS plugin allows you to use Wordpress as a mobile SMS content management system. You can set up a Keyword on a given Short Code. If users send that keyword to the short code, the system will reply with an up to 600 characters long SMS to the user. You need an account on [www.wordpresms.com](ttp://www.wordpresms.com "WordpreSMS") to get started.
+The WordpreSMS plugin allows you to use Wordpress as a mobile SMS content management system. You can set up a Keyword on a given Short Code. If users send that keyword to the short code, the system will reply with an up to 600 characters long SMS to the user. You need an account on [www.wordpresms.com](http://www.wordpresms.com "WordpreSMS") to get started.
 
 Due to the nature of SMS services and short codes, the usage is limited to certain countries. At the moment, WordpreSMS is supported by mobile phone operators in:
 
@@ -20,7 +20,11 @@ Due to the nature of SMS services and short codes, the usage is limited to certa
 * Switzerland
 * Austria
 
+Live demo under [demo.wordpresms.com](http://demo.wordpresms.com "WordpreSMS Demo")
+
 This project is still in Beta phase. All feedback, recommendations and ideas should be fed back to [feedback@wordpresms.com](mailto:feedback@wordpresms.com "WordpreSMS Feedback")
+
+
 
 == Installation ==
 
