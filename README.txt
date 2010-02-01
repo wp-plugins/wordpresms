@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Christoph Burgdorfer, Robert Windisch
+Contributors: Christoph Burgdorfer, coANDcoUK.com / coUNDco.ch
 Donate link: http://www.wordpresms.com
 Tags: sms, mobile, cms, text, text messages, long sms, long messages
 Requires at least: 2.8
