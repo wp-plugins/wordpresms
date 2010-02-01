@@ -10,8 +10,8 @@
 * v0.06: add character counter to box
 * v0.05: add token authentification
 --------------------------------------------------------------------------------
-technology: (c) 2009 Robert Windisch (http://inpsyde.com) 
-released from Robert Windisch (c) 2009 for unlimited use by coANDco UK Ltd. 
+technology: (c) 2010 Robert Windisch (http://inpsyde.com) and Christoph Burgdorfer (http://www.coANDcoUK.com)
+released from Robert Windisch (c) 2009 in cooperation with Christoph Burgdorfer for unlimited use by coANDco UK Ltd. 
 */
 
 define('WORDPRESMS_MAX_SMS_TEXT_LENGTH', 600);
