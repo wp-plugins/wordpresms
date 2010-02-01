@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: Christoph Burgdorfer, coANDcoUK.com / coUNDco.ch
 Donate link: http://www.wordpresms.com
-Tags: sms, mobile, cms, text, text messages, long sms, long messages
+Tags: sms, mobile, cms, text, text messages, long sms, long messages, germany, austria, switzerland, uk
 Requires at least: 2.8
 Tested up to: 2.9
 Stable tag: 0.06
