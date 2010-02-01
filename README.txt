@@ -47,7 +47,7 @@ You can also choose either a dedicated keyword or a dedicated short code at addi
 * UK 83333
 * DE 31000
 * CH 266
-* 0900414141
+* AT 0900414141
 
 = Do pictures or videos work with this? =
 
