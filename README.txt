@@ -22,7 +22,7 @@ Due to the nature of SMS services and short codes, the usage is limited to certa
 
 Live demo under [demo.wordpresms.com](http://demo.wordpresms.com "WordpreSMS Demo")
 
-This project is still in Beta phase. All feedback, recommendations and ideas should be fed back to [feedback@wordpresms.com](mailto:feedback@wordpresms.com "WordpreSMS Feedback")
+**Important:** This project is still in Beta phase. All feedback, recommendations and ideas should be fed back to [feedback@wordpresms.com](mailto:feedback@wordpresms.com "WordpreSMS Feedback")
 
 
 
