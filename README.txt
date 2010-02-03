@@ -75,9 +75,9 @@ Keywords must consist of letters and numbers and must not contain special charac
 
 == Screenshots ==
 
-instructions_wordpresms_choose_keywords.png
-instructions_wordpress_post.png
-instructions_wordpresms_token_settings.png
+1. Choosing a keyword from the WordpreSMS.com interface screenshot-1.png
+2. How your post interface will look like screenshot-2.png
+3. How your WordpreSMS settings in the WordPress dashboard will look like screenshot-3.png
 
 == Changelog ==
 
