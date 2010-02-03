@@ -75,6 +75,10 @@ Keywords must consist of letters and numbers and must not contain special charac
 
 == Screenshots ==
 
+instructions_wordpresms_choose_keywords.png
+instructions_wordpress_post.png
+instructions_wordpresms_token_settings.png
+
 == Changelog ==
 
 = 0.06 =
